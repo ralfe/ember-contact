@@ -1,7 +1,7 @@
-EME = Ember.Application.create({
-    //ready: function () {
-    //    this._super();
-    //}
+Contact = Ember.Application.create({
 });
 
-//EME.store = DS.Store.create();
+Contact.ApplicationController = Ember.Controller.extend({
+    firstName: "Dagobert",
+    lastName: "Duck"
+});

@@ -2,6 +2,12 @@ body {
     background-color: #555154;
 }
 
+header {
+    font-size: large;
+    color: #ee5533;
+    text-align: center;
+}
+
 #mainArea {
     border-radius: 25px;
     -moz-bottomleft: 25px;

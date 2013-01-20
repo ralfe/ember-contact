@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="202d7412-4cbf-4451-9d3e-075ad4e81613" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\privat\projects\ember-contact\src\main\webapp\app\fixtureData.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\privat\projects\ember-contact\src\main\webapp\app\main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\privat\projects\ember-contact\src\main\webapp\app\stateManager.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/app/app.js" afterPath="$PROJECT_DIR$/src/main/webapp/app/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/css/master.css" afterPath="$PROJECT_DIR$/src/main/webapp/css/master.css" />
@@ -10,9 +13,9 @@
     <ignored path="ember-contact.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358677617984" ignored="false" />
-    <file path="/index.html" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358688474454" ignored="false" />
-    <file path="/app.js" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358688683270" ignored="false" />
-    <file path="/master.css" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358685532299" ignored="false" />
+    <file path="/index.html" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358700834185" ignored="false" />
+    <file path="/app.js" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358699889432" ignored="false" />
+    <file path="/master.css" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358700733829" ignored="false" />
     <file path="/main.js" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358688171525" ignored="false" />
     <file path="/fixtureData.js" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358688712166" ignored="false" />
     <file path="/stateManager.js" changelist="202d7412-4cbf-4451-9d3e-075ad4e81613" time="1358688151453" ignored="false" />
@@ -76,19 +79,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="47" selection-start="467" selection-end="467" vertical-scroll-proportion="-5.230769">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stateManager.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/stateManager.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="16" selection-start="283" selection-end="283" vertical-scroll-proportion="0.2943723">
+            <state line="11" column="3" selection-start="692" selection-end="692" vertical-scroll-proportion="0.42889908">
               <folding />
             </state>
           </provider>
@@ -106,7 +100,7 @@
       <file leaf-file-name="master.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/css/master.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="18" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
+            <state line="7" column="22" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,25 +109,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="2" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="35" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fixtureData.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/app/fixtureData.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="7" selection-end="21" vertical-scroll-proportion="0.0">
+            <state line="6" column="19" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -157,12 +133,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/css/master.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/app/main.js" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/src/main/webapp/app/app.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/app/fixtureData.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/app/stateManager.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/app/app.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/master.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
       </list>
     </option>
   </component>
@@ -478,7 +454,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14414415" sideWeight="0.6712517" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22329472" sideWeight="0.6712517" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -542,27 +518,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/ember-1.0.0-pre.4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="57" selection-start="1217" selection-end="1217" vertical-scroll-proportion="-25.16">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/master.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="18" selection-start="504" selection-end="504" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="467" selection-end="467" vertical-scroll-proportion="-5.230769">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="60" selection-start="613" selection-end="701" vertical-scroll-proportion="0.1868759">
@@ -572,28 +527,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0">
+        <state line="6" column="19" selection-start="151" selection-end="151" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/fixtureData.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/master.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="7" selection-end="21" vertical-scroll-proportion="0.0">
+        <state line="7" column="22" selection-start="114" selection-end="114" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/main.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/scripts/ember-1.0.0-pre.4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="35" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
+        <state line="50" column="57" selection-start="1217" selection-end="1217" vertical-scroll-proportion="-25.16">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/app/stateManager.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="16" selection-start="283" selection-end="283" vertical-scroll-proportion="0.2943723">
+        <state line="11" column="3" selection-start="692" selection-end="692" vertical-scroll-proportion="0.42889908">
           <folding />
         </state>
       </provider>
