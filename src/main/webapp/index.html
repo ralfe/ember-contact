@@ -22,6 +22,10 @@
 <section>
     <script type="text/x-handlebars">
         Hi - {{firstName}} {{lastName}}
+        {{#linkTo "about"}}About{{/linkTo}}
+    </script>
+    <script type="text/x-handlebars" data-template-name="about">
+        About
     </script>
 </section>
 </body>
